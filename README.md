@@ -8,3 +8,6 @@ hopefully first working repository
 3. we shall see
 
 I'm currently learning how to code in python and thought GitHub would be a good community to connect with, in order to find answers and be inspired.
+
+### workflow addition
+I've now added a workflow action which should streamline the process of merging.
